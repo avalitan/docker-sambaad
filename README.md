@@ -1,11 +1,11 @@
 ## Samba 4 AD container based on Alpine Linux
-
+```
 [![](https://images.microbadger.com/badges/image/babim/sambaad.svg)](https://microbadger.com/images/babim/sambaad "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/babim/sambaad.svg)](https://microbadger.com/images/babim/sambaad "Get your own version badge on microbadger.com")
 
 [![](https://images.microbadger.com/badges/image/babim/sambaad:nokrb.svg)](https://microbadger.com/images/babim/sambaad:nokrb "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/babim/sambaad:nokrb.svg)](https://microbadger.com/images/babim/sambaad:nokrb "Get your own version badge on microbadger.com")
 
 [![](https://images.microbadger.com/badges/image/babim/sambaad:bind.svg)](https://microbadger.com/images/babim/sambaad:bind "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/babim/sambaad:bind.svg)](https://microbadger.com/images/babim/sambaad:bind "Get your own version badge on microbadger.com")
-
+```
 ### Credits
 Some parts are collected from:
 * https://github.com/pitkley/dockerfiles/tree/master/samba-ad-dc
