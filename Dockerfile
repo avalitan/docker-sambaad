@@ -1,8 +1,7 @@
 FROM alpine:3.7
 
 ## alpine linux
-RUN apk add --no-cache wget bash && cd / && wget --no-check-certificate https://github.com/avalitan/docker-sambaad/raw/master/Scripts/option.sh && \
-    chmod 755 /option.sh && apk del wget
+#RUN apk add --no-cache wget bash && cd / && wget --no-check-certificate https://github.com/avalitan/docker-sambaad/raw/master/Scripts/option.sh && chmod 755 /option.sh && apk del wget
     
 ENV TERM=xterm-color
 RUN apk add --no-cache \
